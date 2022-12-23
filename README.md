@@ -58,7 +58,22 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this sprint's concepts by answering the following free-form questions. Edit this document to include your answers after each question.
 
 1. What is the DOM?
+
+    DOM is short for document. It refers to the entire project as a whole.
+
 2. What is an event?
+
+    An event describes many things, anywhere from a mouse click, to any key being held, pressed, or released.
+
 3. What is an event listener?
+
+    Event listeners essentially 'listen' for an input, and run statements within their respective statements.
+
 4. Why would we convert a NodeList into an Array?
+
+    You have to convert a NodeList into an array in order to use array methods, .map, .reduce, etc, on them.
+
 5. What is a component?
+
+    A component allows you to create another step of interactivity within your code, that is seperate from other functions, statements, or text.
+
