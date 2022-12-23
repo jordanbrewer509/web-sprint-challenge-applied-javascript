@@ -41,8 +41,6 @@ const tabsAppender = (selector) => {
       .then(res => {
         document.querySelector(selector).appendChild(Tabs(res.data.topics));
       })
-      .catch(console.log('error'))
-      .finally('its working');
 }
 
 export { Tabs, tabsAppender }
